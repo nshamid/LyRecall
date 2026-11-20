@@ -7,7 +7,6 @@ Proyek mata kuliah Temu Kembali Informasi, Tahun Ajaran 2026-2027.
 Laporan: *Hybrid Retrieval untuk Pencarian Lagu dari Potongan Lirik yang Tidak Lengkap dan Salah Dengar*.
 
 **Demo:** https://lyrecall.vercel.app
-
 (server pencarian berjalan di laptop, jadi demo hanya aktif saat server menyala)
 
 **Kode antarmuka web:** https://github.com/indrinanc/lyrecall-web
