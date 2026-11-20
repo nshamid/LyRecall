@@ -84,13 +84,13 @@ subset sekitar 100 ribu lagu; ukuran *chunk* dan *stop-word* tidak diablasi; lat
 
 ## Tim
 
-| Nama | NIM | Kontribusi |
+| Nama | NIM |
 |---|---|---|
-| Nabilah Shamid | 09021382328147 | ‹sesuai laporan› |
-| Indrina Nur Chairunnisya | 09021382328157 | ‹sesuai laporan› |
-| Shalaisya Fattiha Ramadhani | 09021382328161 | ‹sesuai laporan› |
-| Raka Athallah Ananta | 09021382328163 | ‹sesuai laporan› |
+| Nabilah Shamid | 09021382328147 |
+| Indrina Nur Chairunnisya | 09021382328157 |
+| Shalaisya Fattiha Ramadhani | 09021382328161 |
+| Raka Athallah Ananta | 09021382328163 |
 
 ## Lisensi
 
-‹pilih lisensi, mis. MIT untuk kode›. Dataset dan model mengikuti lisensi masing-masing.
+Kode dibagikan untuk keperluan akademik. Dataset dan model mengikuti lisensi masing-masing.
