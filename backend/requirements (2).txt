@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+numpy
+scipy
+pandas
+pyarrow
+scikit-learn
+sentence-transformers
+huggingface_hub>=0.24
