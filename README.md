@@ -85,7 +85,7 @@ subset sekitar 100 ribu lagu; ukuran *chunk* dan *stop-word* tidak diablasi; lat
 ## Tim
 
 | Nama | NIM |
-|---|---|---|
+|---|---|
 | Nabilah Shamid | 09021382328147 |
 | Indrina Nur Chairunnisya | 09021382328157 |
 | Shalaisya Fattiha Ramadhani | 09021382328161 |
